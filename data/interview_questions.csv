@@ -1,0 +1,30 @@
+role,question
+Data Scientist,What is supervised learning?
+Data Scientist,Explain overfitting in machine learning.
+Data Scientist,What is feature engineering?
+Data Scientist,Difference between classification and regression?
+Data Scientist,What is cross validation?
+
+Data Analyst,What is data cleaning?
+Data Analyst,Explain SQL joins.
+Data Analyst,What is Power BI?
+Data Analyst,Difference between WHERE and HAVING?
+Data Analyst,Explain data visualization.
+
+Machine Learning Engineer,What is gradient descent?
+Machine Learning Engineer,Explain bias vs variance.
+Machine Learning Engineer,What is random forest?
+Machine Learning Engineer,What is model deployment?
+Machine Learning Engineer,Difference between bagging and boosting?
+
+Python Developer,What are Python decorators?
+Python Developer,Explain OOP concepts in Python.
+Python Developer,What is list comprehension?
+Python Developer,Difference between tuple and list?
+Python Developer,Explain exception handling in Python.
+
+Full Stack Developer,What is REST API?
+Full Stack Developer,Difference between frontend and backend?
+Full Stack Developer,Explain React lifecycle.
+Full Stack Developer,What is database normalization?
+Full Stack Developer,Explain authentication and authorization.

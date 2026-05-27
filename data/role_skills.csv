@@ -1,0 +1,7 @@
+job_role,required_skills
+Data Analyst,"Python,SQL,Excel,Power BI,Tableau,Statistics"
+Data Scientist,"Python,Machine Learning,Pandas,NumPy,Statistics,SQL"
+Machine Learning Engineer,"Python,Machine Learning,Deep Learning,TensorFlow,PyTorch"
+Business Analyst,"Excel,SQL,Power BI,Communication,Tableau"
+Python Developer,"Python,Flask,Streamlit,SQL,Git"
+AI Engineer,"Python,NLP,Deep Learning,TensorFlow,PyTorch"
