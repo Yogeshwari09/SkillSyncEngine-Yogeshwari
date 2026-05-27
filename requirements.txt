@@ -4,8 +4,11 @@ numpy
 scikit-learn
 spacy
 PyPDF2
-plotly
 pdfplumber
+plotly
 reportlab
 joblib
+matplotlib
+python-docx
+openpyxl
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0.tar.gz
