@@ -4,6 +4,7 @@ numpy
 scikit-learn
 spacy
 PyPDF2
+plotly
 pdfplumber
 reportlab
 joblib
